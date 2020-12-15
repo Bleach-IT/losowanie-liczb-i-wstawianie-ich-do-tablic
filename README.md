@@ -1,0 +1,1 @@
+# losowanie-liczb-i-wstawianie-ich-do-tablic
